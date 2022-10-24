@@ -79,3 +79,17 @@ body {
     font-size: 24px;
     margin-bottom: 48px;
 }
+#startlogo {
+    color:white;
+    background-color: rgb(245, 102, 126);
+    display: inline-block;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 8px;
+    margin-top: 32px;
+}
+#startlogo-name {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 16px;
+}
