@@ -16,6 +16,7 @@ body {
 #Textteil-left {
   float: left; 
   width: 100%;
+  text-align: left;
 }
 #Textteil-right {
   float: right; 
